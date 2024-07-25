@@ -6,4 +6,4 @@ This project is a small demonstration of using the AWS SDK to upload a text file
 
 ## Usage
 
-java awssbuckettester <bucket name> <access key id> <secret access key>
+java awssbuckettester `<bucket name`> `<access key id`> `<secret access key`>
